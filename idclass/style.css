@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: justify;
+    margin: 7px;
+    background-color: beige;
+}
+p{
+    text-indent: 30px;
+}
+#principal{
+    color: rgb(251, 254, 253);
+    background-color:rgba(165, 42, 42, 0.461);
+    text-align: center;
+}
+.h2{
+    background-color: rgba(226, 43, 43, 0.397);
+}
+h1{
+    background-color: aqua;
+}
